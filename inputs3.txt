@@ -1,0 +1,18 @@
+8
+S
+S -> NPVP
+VP->VPPP|VNP|eats
+PP->PNP
+NP->DetN|she
+V->eats
+P->with
+N->fish|fork
+Det->a
+7
+she
+eats
+a
+fish
+with
+a
+fork
